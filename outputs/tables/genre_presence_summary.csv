@@ -1,0 +1,27 @@
+platform,broad_genre,unique_titles,total_titles,title_presence_percentage
+Disney+,Action and Adventure,465,1450,32.07
+Disney+,Animation and Anime,542,1450,37.38
+Disney+,Children and Family,911,1450,62.83
+Disney+,Comedy,533,1450,36.76
+Disney+,Crime Mystery and Thriller,34,1450,2.34
+Disney+,Documentary,346,1450,23.86
+Disney+,Drama,359,1450,24.76
+Disney+,Music and Performing Arts,94,1450,6.48
+Disney+,Reality and Lifestyle,54,1450,3.72
+Disney+,Romance,23,1450,1.59
+Disney+,Science Fiction and Fantasy,281,1450,19.38
+Disney+,Sports,43,1450,2.97
+Netflix,Action and Adventure,1027,8807,11.66
+Netflix,Animation and Anime,247,8807,2.8
+Netflix,Children and Family,1157,8807,13.14
+Netflix,Comedy,2620,8807,29.75
+Netflix,Crime Mystery and Thriller,1160,8807,13.17
+Netflix,Documentary,1268,8807,14.4
+Netflix,Drama,3190,8807,36.22
+Netflix,Faith and Spirituality,65,8807,0.74
+Netflix,Horror,432,8807,4.91
+Netflix,Music and Performing Arts,375,8807,4.26
+Netflix,Reality and Lifestyle,311,8807,3.53
+Netflix,Romance,986,8807,11.2
+Netflix,Science Fiction and Fantasy,327,8807,3.71
+Netflix,Sports,219,8807,2.49

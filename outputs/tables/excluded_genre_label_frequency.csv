@@ -1,0 +1,17 @@
+platform,raw_label,label_type,unique_titles
+Disney+,Buddy,Theme,40
+Disney+,Anthology,Format,28
+Disney+,Movies,Format,3
+Disney+,Series,Format,3
+Netflix,International Movies,Geography,2752
+Netflix,International TV Shows,Geography,1351
+Netflix,Independent Movies,Production characteristic,756
+Netflix,British TV Shows,Geography,253
+Netflix,Spanish-Language TV Shows,Language,174
+Netflix,Korean TV Shows,Geography,151
+Netflix,Classic Movies,Characteristic,116
+Netflix,LGBTQ Movies,Theme and representation,102
+Netflix,Cult Movies,Characteristic,71
+Netflix,Movies,Format,57
+Netflix,Classic & Cult TV,Characteristic,28
+Netflix,TV Shows,Format,16

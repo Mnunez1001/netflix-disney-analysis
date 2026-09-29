@@ -1,0 +1,49 @@
+platform,type,broad_genre,unique_titles,total_titles,title_presence_percentage
+Disney+,Movie,Action and Adventure,319,1052,30.32
+Disney+,Movie,Animation and Anime,381,1052,36.22
+Disney+,Movie,Children and Family,678,1052,64.45
+Disney+,Movie,Comedy,413,1052,39.26
+Disney+,Movie,Crime Mystery and Thriller,28,1052,2.66
+Disney+,Movie,Documentary,217,1052,20.63
+Disney+,Movie,Drama,284,1052,27.0
+Disney+,Movie,Music and Performing Arts,80,1052,7.6
+Disney+,Movie,Reality and Lifestyle,12,1052,1.14
+Disney+,Movie,Romance,20,1052,1.9
+Disney+,Movie,Science Fiction and Fantasy,231,1052,21.96
+Disney+,Movie,Sports,38,1052,3.61
+Disney+,TV Show,Action and Adventure,146,398,36.68
+Disney+,TV Show,Animation and Anime,161,398,40.45
+Disney+,TV Show,Children and Family,233,398,58.54
+Disney+,TV Show,Comedy,120,398,30.15
+Disney+,TV Show,Crime Mystery and Thriller,6,398,1.51
+Disney+,TV Show,Documentary,129,398,32.41
+Disney+,TV Show,Drama,75,398,18.84
+Disney+,TV Show,Music and Performing Arts,14,398,3.52
+Disney+,TV Show,Reality and Lifestyle,42,398,10.55
+Disney+,TV Show,Romance,3,398,0.75
+Disney+,TV Show,Science Fiction and Fantasy,50,398,12.56
+Disney+,TV Show,Sports,5,398,1.26
+Netflix,Movie,Action and Adventure,859,6131,14.01
+Netflix,Movie,Animation and Anime,71,6131,1.16
+Netflix,Movie,Children and Family,641,6131,10.46
+Netflix,Movie,Comedy,2017,6131,32.9
+Netflix,Movie,Crime Mystery and Thriller,577,6131,9.41
+Netflix,Movie,Documentary,869,6131,14.17
+Netflix,Movie,Drama,2427,6131,39.59
+Netflix,Movie,Faith and Spirituality,65,6131,1.06
+Netflix,Movie,Horror,357,6131,5.82
+Netflix,Movie,Music and Performing Arts,375,6131,6.12
+Netflix,Movie,Romance,616,6131,10.05
+Netflix,Movie,Science Fiction and Fantasy,243,6131,3.96
+Netflix,Movie,Sports,219,6131,3.57
+Netflix,TV Show,Action and Adventure,168,2676,6.28
+Netflix,TV Show,Animation and Anime,176,2676,6.58
+Netflix,TV Show,Children and Family,516,2676,19.28
+Netflix,TV Show,Comedy,603,2676,22.53
+Netflix,TV Show,Crime Mystery and Thriller,583,2676,21.79
+Netflix,TV Show,Documentary,399,2676,14.91
+Netflix,TV Show,Drama,763,2676,28.51
+Netflix,TV Show,Horror,75,2676,2.8
+Netflix,TV Show,Reality and Lifestyle,311,2676,11.62
+Netflix,TV Show,Romance,370,2676,13.83
+Netflix,TV Show,Science Fiction and Fantasy,84,2676,3.14

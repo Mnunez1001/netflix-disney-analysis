@@ -1,0 +1,93 @@
+platform,raw_label,label_type,broad_genre,include_in_analysis,mapping_note
+Netflix,Action & Adventure,Genre,Action and Adventure,True,Direct genre equivalent.
+Netflix,Anime Features,Subgenre,Animation and Anime,True,Anime movie label.
+Netflix,Anime Series,Subgenre,Animation and Anime,True,Anime television label.
+Netflix,Children & Family Movies,Audience and genre,Children and Family,True,Family-oriented movie label.
+Netflix,Comedies,Genre,Comedy,True,Plural form of Comedy.
+Netflix,Crime TV Shows,Subgenre,Crime Mystery and Thriller,True,Crime television label.
+Netflix,Documentaries,Genre,Documentary,True,Plural form of Documentary.
+Netflix,Docuseries,Format and genre,Documentary,True,Episodic documentary content.
+Netflix,Dramas,Genre,Drama,True,Plural form of Drama.
+Netflix,Faith & Spirituality,Genre and theme,Faith and Spirituality,True,Faith-oriented content.
+Netflix,Horror Movies,Genre,Horror,True,Horror movie label.
+Netflix,Kids' TV,Audience and genre,Children and Family,True,Television for children.
+Netflix,Music & Musicals,Genre,Music and Performing Arts,True,Music and musical content.
+Netflix,Reality TV,Format and genre,Reality and Lifestyle,True,Reality programming.
+Netflix,Romantic Movies,Genre,Romance,True,Romance movie label.
+Netflix,Romantic TV Shows,Genre,Romance,True,Romance television label.
+Netflix,Sci-Fi & Fantasy,Genre,Science Fiction and Fantasy,True,Combined science-fiction and fantasy label.
+Netflix,Science & Nature TV,Genre and subject,Documentary,True,Usually factual science or nature programming.
+Netflix,Sports Movies,Genre and subject,Sports,True,Sports-oriented movies.
+Netflix,Stand-Up Comedy,Performance genre,Comedy,True,Stand-up performance content.
+Netflix,Stand-Up Comedy & Talk Shows,Mixed genre,Comedy,True,Contains both comedy and talk-show characteristics.
+Netflix,Stand-Up Comedy & Talk Shows,Mixed genre,Reality and Lifestyle,True,Contains both comedy and talk-show characteristics.
+Netflix,Teen TV Shows,Audience,Children and Family,True,Included as youth-oriented programming.
+Netflix,Thrillers,Genre,Crime Mystery and Thriller,True,Thriller movie label.
+Netflix,TV Action & Adventure,Genre,Action and Adventure,True,Television action and adventure.
+Netflix,TV Comedies,Genre,Comedy,True,Television comedy.
+Netflix,TV Dramas,Genre,Drama,True,Television drama.
+Netflix,TV Horror,Genre,Horror,True,Television horror.
+Netflix,TV Mysteries,Genre,Crime Mystery and Thriller,True,Television mystery.
+Netflix,TV Sci-Fi & Fantasy,Genre,Science Fiction and Fantasy,True,Television science fiction and fantasy.
+Netflix,TV Thrillers,Genre,Crime Mystery and Thriller,True,Television thriller.
+Disney+,Action-Adventure,Genre,Action and Adventure,True,Direct equivalent of action and adventure.
+Disney+,Animals & Nature,Genre and subject,Documentary,True,Usually factual animal or nature programming.
+Disney+,Animation,Medium and genre,Animation and Anime,True,Animated content.
+Disney+,Anime,Subgenre,Animation and Anime,True,Anime content.
+Disney+,Biographical,Genre and subject,Drama,True,Mapped to Drama rather than assuming documentary form.
+Disney+,Comedy,Genre,Comedy,True,Direct genre equivalent.
+Disney+,Coming of Age,Genre and audience,Children and Family,True,Youth-oriented stories that commonly use dramatic structure.
+Disney+,Coming of Age,Genre and audience,Drama,True,Youth-oriented stories that commonly use dramatic structure.
+Disney+,Concert Film,Performance genre,Music and Performing Arts,True,Filmed musical performance.
+Disney+,Crime,Genre,Crime Mystery and Thriller,True,Crime content.
+Disney+,Dance,Performance genre,Music and Performing Arts,True,Dance and performance content.
+Disney+,Disaster,Subgenre,Action and Adventure,True,Disaster-oriented action or adventure.
+Disney+,Documentary,Genre,Documentary,True,Direct genre equivalent.
+Disney+,Docuseries,Format and genre,Documentary,True,Episodic documentary content.
+Disney+,Drama,Genre,Drama,True,Direct genre equivalent.
+Disney+,Family,Audience and genre,Children and Family,True,Family-oriented content.
+Disney+,Fantasy,Genre,Science Fiction and Fantasy,True,Fantasy content.
+Disney+,Game Show / Competition,Format and genre,Reality and Lifestyle,True,Unscripted competition content.
+Disney+,Historical,Genre and subject,Drama,True,Mapped to Drama without assuming documentary form.
+Disney+,Kids,Audience,Children and Family,True,Programming intended for children.
+Disney+,Lifestyle,Genre and subject,Reality and Lifestyle,True,Lifestyle-oriented programming.
+Disney+,Medical,Subgenre,Drama,True,Medical drama or narrative content.
+Disney+,Music,Genre,Music and Performing Arts,True,Music-oriented content.
+Disney+,Musical,Genre,Music and Performing Arts,True,Musical content.
+Disney+,Mystery,Genre,Crime Mystery and Thriller,True,Mystery content.
+Disney+,Parody,Subgenre,Comedy,True,Parody is treated as comedy.
+Disney+,Police/Cop,Subgenre,Crime Mystery and Thriller,True,Police and crime-oriented content.
+Disney+,Reality,Format and genre,Reality and Lifestyle,True,Reality programming.
+Disney+,Romance,Genre,Romance,True,Direct genre equivalent.
+Disney+,Romantic Comedy,Mixed genre,Comedy,True,Combines comedy and romance.
+Disney+,Romantic Comedy,Mixed genre,Romance,True,Combines comedy and romance.
+Disney+,Science Fiction,Genre,Science Fiction and Fantasy,True,Science-fiction content.
+Disney+,Soap Opera / Melodrama,Mixed genre,Drama,True,Combines dramatic and romantic conventions.
+Disney+,Soap Opera / Melodrama,Mixed genre,Romance,True,Combines dramatic and romantic conventions.
+Disney+,Sports,Genre and subject,Sports,True,Sports-oriented content.
+Disney+,Spy/Espionage,Mixed subgenre,Action and Adventure,True,Commonly overlaps action and thriller genres.
+Disney+,Spy/Espionage,Mixed subgenre,Crime Mystery and Thriller,True,Commonly overlaps action and thriller genres.
+Disney+,Superhero,Mixed subgenre,Action and Adventure,True,Commonly combines action with speculative elements.
+Disney+,Superhero,Mixed subgenre,Science Fiction and Fantasy,True,Commonly combines action with speculative elements.
+Disney+,Survival,Subgenre,Action and Adventure,True,Survival-oriented adventure.
+Disney+,Talk Show,Format and genre,Reality and Lifestyle,True,Unscripted talk programming.
+Disney+,Thriller,Genre,Crime Mystery and Thriller,True,Thriller content.
+Disney+,Travel,Genre and subject,Reality and Lifestyle,True,Travel and lifestyle programming.
+Disney+,Variety,Format and genre,Reality and Lifestyle,True,Unscripted variety programming.
+Disney+,Western,Subgenre,Action and Adventure,True,Mapped to the broader action and adventure category.
+Netflix,British TV Shows,Geography,,False,Country or regional descriptor rather than a genre.
+Netflix,Classic & Cult TV,Characteristic,,False,Describes age or cultural status rather than genre.
+Netflix,Classic Movies,Characteristic,,False,Describes age rather than genre.
+Netflix,Cult Movies,Characteristic,,False,Describes cultural status rather than genre.
+Netflix,Independent Movies,Production characteristic,,False,Describes production context rather than genre.
+Netflix,International Movies,Geography,,False,International origin is not a storytelling genre.
+Netflix,International TV Shows,Geography,,False,International origin is not a storytelling genre.
+Netflix,Korean TV Shows,Geography,,False,Country descriptor rather than genre.
+Netflix,LGBTQ Movies,Theme and representation,,False,Identity representation should not be treated as a genre.
+Netflix,Movies,Format,,False,Generic content format.
+Netflix,Spanish-Language TV Shows,Language,,False,Language descriptor rather than genre.
+Netflix,TV Shows,Format,,False,Generic content format.
+Disney+,Anthology,Format,,False,Narrative structure rather than genre.
+Disney+,Buddy,Theme,,False,Relationship structure rather than a reliable genre.
+Disney+,Movies,Format,,False,Generic content format.
+Disney+,Series,Format,,False,Generic content format.

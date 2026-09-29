@@ -1,0 +1,15 @@
+broad_genre,disney_minus_netflix,fractional_gap,same_direction
+Action and Adventure,20.41,4.66,True
+Animation and Anime,34.58,11.75,True
+Children and Family,49.69,14.33,True
+Comedy,7.01,-6.35,False
+Crime Mystery and Thriller,-10.83,-7.18,True
+Documentary,9.46,1.92,True
+Drama,-11.46,-15.0,True
+Faith and Spirituality,-0.74,-0.34,True
+Horror,-4.91,-3.24,True
+Music and Performing Arts,2.22,0.34,True
+Reality and Lifestyle,0.19,-0.93,False
+Romance,-9.61,-5.64,True
+Science Fiction and Fantasy,15.67,5.71,True
+Sports,0.48,-0.01,False
